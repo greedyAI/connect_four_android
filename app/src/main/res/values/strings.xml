@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Connect Four</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_newgame">New Game</string>
+    <string name="action_leaderboard">Leaderboard</string>
+    <string name="title_activity_leaderboard">LeaderboardActivity</string>
+    <string name="users">users</string>
+    <string name="red_wins">Red Wins!</string>
+    <string name="yellow_wins">Yellow Wins!</string>
+    <string name="draw">Draw!</string>
+    <string name="reset_title">Reset Leaderboard</string>
+    <string name="reset_stats">Are you sure you want to reset the leaderboard statistics?</string>
+    <string name="ban_title">Not Allowed!</string>
+    <string name="ban_text">You cannot access the leaderboard until the current game is finished!</string>
+    <string name="ban_confirm">Okay</string>
+    <string name="reset_confirm">Yes</string>
+    <string name="reset_reject">No</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="boardBackground">#4A90E2</color>
+    <color name="secondary_player">#FFD918</color>
+    <color name="primary_player">#FF000B</color>
+    <color name="draw_color">#0000FF</color>
+    <color name="reset_color">#00FF00</color>
+</resources>
